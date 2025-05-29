@@ -6,7 +6,7 @@ This project is a mobile-first interior designer listings page, built as part of
 
 ## 🔗 Live Demo Links
 
-- 🔸 **Frontend (Netlify)**: 
+- 🔸 **Frontend (Render)**:https://emptycup-assignment-8x55.onrender.com/ 
 
 - 🔹 **Backend API (Render)**: (I Could not able to do with render so no link)
 
