@@ -49,7 +49,7 @@ Pratham Mistry/
 
 ### 1. Clone the repository
 ```bash
-git clone : 
+git clone : https://github.com/prathammist/Design-Heaven
 ### 2. Build and run using Docker Compose
 docker-compose build
 docker-compose up
