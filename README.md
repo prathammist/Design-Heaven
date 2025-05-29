@@ -26,7 +26,7 @@ This project is a mobile-first interior designer listings page, built as part of
 ---
 
 ## 📁 Folder Structure
-Simran Kumari/
+Pratham Mistry/
 ├── backend/
 │ ├── app.py
 │ ├── database.py
