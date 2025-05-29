@@ -1,4 +1,4 @@
-# Simran Kumari – EmptyCup Full Stack Assignment
+# Pratham Mistry– EmptyCup Full Stack Assignment
 
 This project is a mobile-first interior designer listings page, built as part of the EmptyCup Full Stack Assignment. It includes a frontend (HTML/CSS/JS) and backend (Flask API with SQLite), fully containerized using Docker and deployed publicly.
 
@@ -6,7 +6,7 @@ This project is a mobile-first interior designer listings page, built as part of
 
 ## 🔗 Live Demo Links
 
-- 🔸 **Frontend (Netlify)**: [https://6831ee4cf4b0a3d1219a5626--wonderful-moxie-91af4a.netlify.app/]
+- 🔸 **Frontend (Netlify)**: 
 
 - 🔹 **Backend API (Render)**: (I Could not able to do with render so no link)
 
@@ -49,9 +49,7 @@ Simran Kumari/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/simran0323/emptycup-assignment.git
-cd Simran\ Kumari/
-
+git clone : 
 ### 2. Build and run using Docker Compose
 docker-compose build
 docker-compose up
